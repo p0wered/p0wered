@@ -1,5 +1,5 @@
-<h1 style="width: 100%; text-align: center; font-size: 56px; line-height: 30%; color: white; text-shadow: 0 0 25px rgba(253,253,253,0.32)">/powered</h1>
-<p style="width: 100%; text-align: center; line-height: 180%; font-size: 24px">Front-end Web Developer</p>
+<h1 style="width: 100%; text-align: center; font-size: 56px; line-height: 30%; color: white; text-shadow: 0 0 25px rgba(253,253,253,0.32)">/p0wered</h1>
+<p style="width: 100%; text-align: center; line-height: 180%; font-size: 24px">Front-End Web Developer</p>
 
 ### Languages
 
@@ -33,4 +33,4 @@
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 
 ### Statistics
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p0wered&layout=normal&title_color=2DA44E&text_color=c9c9c9&bg_color=0d1117&border_color=3d444d"/></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p0wered&layout=donut-vertical&title_color=2DA44E&text_color=c9c9c9&bg_color=0d1117&border_color=3d444d"/></a>
