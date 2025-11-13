@@ -33,4 +33,4 @@
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 
 ### Statistics
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p0wered&layout=donut-vertical&title_color=2DA44E&text_color=c9c9c9&bg_color=0d1117&border_color=3d432e"/></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p0wered&layout=donut-vertical&title_color=2DA44E&text_color=c9c9c9&bg_color=0d1117&border_color=3d433e"/></a>
