@@ -8,7 +8,6 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
 ### Databases
 
@@ -33,4 +32,4 @@
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 
 ### Statistics
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p0wered&layout=donut-vertical&title_color=2DA44E&text_color=c9c9c9&bg_color=0d1117&border_color=3d433e"/></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p0wered&layout=donut-vertical&title_color=2DA44E&text_color=c9c9c9&bg_color=0d1117&border_color=3d423e"/></a>
