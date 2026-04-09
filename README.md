@@ -29,6 +29,3 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![Framer](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
-
-### Statistics
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p0wered&layout=donut-vertical&title_color=2DA44E&text_color=c9c9c9&bg_color=0d1117&border_color=3d423e"/></a>
