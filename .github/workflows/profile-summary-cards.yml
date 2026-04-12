@@ -22,5 +22,5 @@ jobs:
           USERNAME: p0wered
           BRANCH_NAME: main
           UTC_OFFSET: 2
-          EXCLUDE: ""
+          EXCLUDE: "python"
           AUTO_PUSH: true
