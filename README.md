@@ -29,3 +29,7 @@
 [![Framer](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
+
+### Stats
+
+![](https://raw.githubusercontent.com/p0wered/p0wered/cards/profile-summary-card-output/github_dark/1-repos-per-language.svg)
