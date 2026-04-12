@@ -32,4 +32,4 @@
 
 ### Stats
 
-![](https://raw.githubusercontent.com/p0wered/p0wered/cards/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/p0wered/p0wered/cards-2/profile-summary-card-output/github_dark/1-repos-per-language.svg)
